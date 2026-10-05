@@ -1,12 +1,17 @@
-## Hi there 👋
+## Welcome to the PhoenixSuite Foundry!
 
-<!--
+We are an open source and community driven modding organization.
 
-**Here are some ideas to get you started:**
+The PhoenixSuite of mods (essentials, excavate, chronicles, guilds, solaris, and domains) as well as the modpack Phoenix Forge Technologies are included.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Our mission.
+We want to have fun making mods and modpacks! We have a focus on making projects with pretty UIs, good documentation, good dx/ux, and an open community towards new ideas. If we make mistakes we will own up to them and learn+improve in the modded community!
+
+If you have any ideas, suggestions, or issues feel free to tell us in our github issues or dropping a ping to Phoenixvine on discord.
+
+<p align="center">
+  <a href="https://www.curseforge.com/minecraft/mc-mods/phoenix-chronicles-quests">
+    <img alt="Discord" height="50" src="https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/social/discord-singular_vector.svg"></a>
+  <a href="https://ko-fi.com/phoenixvine">
+    <img alt="Ko-fi" height="50" src="https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/donate/kofi-singular_vector.svg"></a>
+</p>
