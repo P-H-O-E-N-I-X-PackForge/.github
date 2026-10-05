@@ -10,7 +10,6 @@ We want to have fun making mods and modpacks! We have a focus on making projects
 If you have any ideas, suggestions, or issues feel free to tell us in our github issues or dropping a ping to Phoenixvine on discord.
 
 <p align="center">
-  <a href="https://www.curseforge.com/minecraft/mc-mods/phoenix-chronicles-quests">
     <img alt="Discord" height="50" src="https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/social/discord-singular_vector.svg"></a>
   <a href="https://ko-fi.com/phoenixvine">
     <img alt="Ko-fi" height="50" src="https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/donate/kofi-singular_vector.svg"></a>
