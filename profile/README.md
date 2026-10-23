@@ -15,6 +15,7 @@ It is also our biggest standalone mod. Chronicles is the mod with the most need 
 - Phoenix guilds: Our Teams mod with an easy to use UI, a custom flags system, and extensive API for other devs to use. It is mostly a backbone mod.
 - PhoenixWiki: The PhoenixSuite's library mod. It handles theming, the rich text engine for our mods, the ingame wiki system, and the suite hud buttons.
 - Solaris: Our map mod. It is visually light with vibrant water, theming, the ability to restrict certain parts of the mod through it's api, and has built in support for FTBTeams and PhoenixGuilds.
+- Continuum: Our space exploration mod. It's main focus is exploring and extracting resources from celestial bodies and not dimensions. It has special support for Solaris and Phoenixcore.
 - Phoenix Domains: Our chunkloading/claiming mod. It supports Journeymap, Solaris, Phoenix Guilds, and FTBTeams.
 - Phoenix Essentials: Our essential commands mod. It has support for Phoenix Domains to not /rtp into claimed land.
 - Phoenix Excavate: Our vein mining/placing mod. It has an ingame UI to choose what blocks it mines, the amount you can vein interact with at one time, and some settings. The config file can lock down the control ingame provides.
